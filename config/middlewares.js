@@ -11,7 +11,7 @@ module.exports = [
             "'self'",
             "data:",
             "blob:",
-            "v2backend-assets.com",
+            "https://v2backend-assets.s3.us-east-2.amazonaws.com/",
           ],
           "media-src": ["'self'", "data:", "blob:"],
           upgradeInsecureRequests: null,
