@@ -19,7 +19,8 @@
     "develop": "strapi develop",
     "start": "strapi start",
     "build": "strapi build",
-    "strapi": "strapi"
+    "strapi": "strapi",
+    "heroku-logs": "heroku logs --app=v6-strapi-cms"  
   },
   "devDependencies": {},
   "author": {
