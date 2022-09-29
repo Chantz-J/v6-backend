@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "resumes",
+  "info": {
+    "singularName": "resume",
+    "pluralName": "resumes",
+    "displayName": "Resume",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Org": {
+      "type": "string"
+    },
+    "Synposis": {
+      "type": "richtext"
+    },
+    "Job": {
+      "type": "string"
+    },
+    "Time": {
+      "type": "string"
+    }
+  }
+}
